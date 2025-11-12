@@ -3,6 +3,10 @@
 An AI-powered web app that rewrites dating messages to improve tone, clarity, and emotional balance.  
 Built with a secure Gemini API backend and a responsive front-end UI.
 
+Powered by Gemini 2.5.
+
+
+**Live Demo:** [ai-date-message-coach.streamlit.app](https://ai-date-message-coach-pvqztmfk3fpkrpc7zrf4hq.streamlit.app)
 ##  Features
 - Rewrite messages with selectable tones (Confident, Sincere, Playful, etc.)
 - Private, key-secure Gemini API relay (no client-side exposure)
